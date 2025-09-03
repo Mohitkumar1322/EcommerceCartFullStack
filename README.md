@@ -7,6 +7,8 @@ Welcome to the **AI-Powered E-Commerce Website**, a full-stack project built usi
 <img width="1899" height="864" alt="Screenshot 2025-09-03 160436" src="https://github.com/user-attachments/assets/11eeefc1-dcaf-4eb0-8ed6-c141b633716d" />
 <img width="1719" height="756" alt="Screenshot 2025-09-03 155854" src="https://github.com/user-attachments/assets/e30c3178-4e01-4ab4-b4a2-bccc96e0fad5" />
 
+## WorkFlow Diagram
+<img width="6428" height="832" alt="diagram" src="https://github.com/user-attachments/assets/b5c58b3e-b479-497c-b710-db23348983ea" />
 
 
 
